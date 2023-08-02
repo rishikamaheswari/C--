@@ -1,5 +1,11 @@
 //Find minimum element in unsorted array and swap it with element at beginning of unsorted array
 
+//first loop, first pos
+//second loop, second pos to last pos, finds smallest and swaps with first element
+
+//first loop, second pos
+//second loop, third pos to last pos, finds smallest and swaps with second element
+
 #include<iostream>
 using namespace std;
 int main()
