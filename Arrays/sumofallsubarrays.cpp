@@ -1,4 +1,5 @@
 //Output sum of each subarray of the given array.
+//so. of subarrays = nC2 + n
 
 #include<iostream>
 using namespace std;
